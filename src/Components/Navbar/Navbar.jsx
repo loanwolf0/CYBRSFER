@@ -4,7 +4,6 @@ import MenuIcon from '@mui/icons-material/Menu';
 import CloseIcon from '@mui/icons-material/Close';
 import logo from '../../assets/logo.png'
 import './Navbar.css';
-import logoFinal from '../../assets/logo_final.jpeg'
 
 const Navbar = () => {
   const [isMobile, setIsMobile] = useState(false)

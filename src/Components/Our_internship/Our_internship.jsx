@@ -3,7 +3,6 @@ import './Our_internship.css'
 import Internship from '../Internship/Internship'
 import android from '..//../assets/android.jpeg'
 import web from '..//../assets/web.jpeg'
-import java from '..//../assets/java.jpeg'
 import Python from '..//../assets/python.jpeg'
 import graphic from '..//../assets/graph.jpeg'
 import data from  '../../assets/data.jpeg';

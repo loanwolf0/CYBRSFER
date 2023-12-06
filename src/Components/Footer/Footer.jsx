@@ -2,9 +2,7 @@ import React from 'react'
 import InstagramIcon from '@mui/icons-material/Instagram';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import EmailIcon from '@mui/icons-material/Email';
-import LocationOnIcon from '@mui/icons-material/LocationOn';
 import YouTubeIcon from '@mui/icons-material/YouTube';
-import TwitterIcon from '@mui/icons-material/Twitter';
 
 import './Footer.css'
 
@@ -26,10 +24,10 @@ const Footer = () => {
                         <h1 className="border-b-2 border-yellow-200 pb-1 font-bold text-2xl ">Quick Links</h1>
                     </div>
                 
-                    <li className='mb-2'><a href="#" class="transition duration-300 ease-in-out hover:text-gray-400">Home</a></li>
-                    <li className='mb-2'><a href="#" class="transition duration-300 ease-in-out hover:text-gray-400">About Us</a></li>
-                    <li className='mb-2'><a href="#" class="transition duration-300 ease-in-out hover:text-gray-400">Services</a></li>
-                    <li className='mb-2'><a href="#" class="transition duration-300 ease-in-out hover:text-gray-400">Contact</a></li>
+                    <li className='mb-2'><a href="/" className="transition duration-300 ease-in-out hover:text-gray-400">Home</a></li>
+                    <li className='mb-2'><a href="/" className="transition duration-300 ease-in-out hover:text-gray-400">About Us</a></li>
+                    <li className='mb-2'><a href="/" className="transition duration-300 ease-in-out hover:text-gray-400">Services</a></li>
+                    <li className='mb-2'><a href="/" className="transition duration-300 ease-in-out hover:text-gray-400">Contact</a></li>
                 </ul>
 
                 <div className=" w-full md:w-[20%] mb-10  md:ml-10 ">

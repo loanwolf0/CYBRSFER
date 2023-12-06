@@ -37,11 +37,11 @@ const Footer = () => {
                     </div>
                     <div className="flex items-center mb-2 ">
                         <InstagramIcon className='mr-2'/>
-                        <a href="https://instagram.com/cybrsfer?igshid=NzZlODBkYWE4Ng==" target="_blank" className="transition duration-300 ease-in-out hover:text-gray-400">Instagram</a>
+                        <a href="https://instagram.com/cybrsfer?igshid=NzZlODBkYWE4Ng=="  className="transition duration-300 ease-in-out hover:text-gray-400">Instagram</a>
                     </div>
                     <div className="flex items-center mb-2">
                         <LinkedInIcon className='mr-2'/>
-                        <a href="https://www.linkedin.com/company/cybersphereo/" target="_blank" className="transition duration-300 ease-in-out hover:text-gray-400">LinkedIn</a>
+                        <a href="https://www.linkedin.com/company/cybersphereo/"  className="transition duration-300 ease-in-out hover:text-gray-400">LinkedIn</a>
                     </div>
                     <div className="flex items-center mb-2">
                         <EmailIcon className='mr-2'/>
@@ -49,7 +49,7 @@ const Footer = () => {
                     </div>
                     <div className="flex items-center">
                         <YouTubeIcon className='mr-2'/>
-                        <a href="https://youtube.com/@Cyber-Sphere?si=_tNfodG6alsXY5-t" target="_blank" className="transition duration-300 ease-in-out hover:text-gray-400">Youtube</a>
+                        <a href="https://youtube.com/@Cyber-Sphere?si=_tNfodG6alsXY5-t"  className="transition duration-300 ease-in-out hover:text-gray-400">Youtube</a>
                     </div>
                 </div>
 

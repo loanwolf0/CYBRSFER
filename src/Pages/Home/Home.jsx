@@ -9,7 +9,7 @@ import AllReviws from '../../Components/AllReviews/AllReviws'
 import ContactForm from '../../Components/ContactFORM/ContactForm'
 import FAQ from '../../Components/Faq/Faq'
 import Footer from '../../Components/Footer/Footer'
-import Our_internship from '../../Components/Our_internship/Our_internship'
+import OurInternship from '../../Components/Our_internship/OurInternship'
 import AboutC from '..//../Components/AboutC/AboutC'
 
 const Home = () => {
@@ -23,7 +23,7 @@ const Home = () => {
       <AboutC/>
        <Title/>
        <Waterdrop/>
-       <Our_internship/>
+       <OurInternship/>
        {/* <AboutSection/>
         <div className="aboutTesti">
           <Testimonials/>

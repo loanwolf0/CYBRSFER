@@ -1,5 +1,5 @@
 import React from 'react'
-import './Our_internship.css'
+import './OurInternship.css'
 import Internship from '../Internship/Internship'
 import android from '..//../assets/android.jpeg'
 import web from '..//../assets/web.jpeg'
@@ -10,7 +10,7 @@ import oig from '../../assets/OIG.jpeg'
 
 
 
-const Our_internship = () => {
+const OurInternship = () => {
   return (
     <div className="Our_I_container mb-20">
         <div className="OI_title mb-5">
@@ -59,4 +59,4 @@ const Our_internship = () => {
   )
 }
 
-export default Our_internship
+export default OurInternship

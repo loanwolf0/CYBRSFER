@@ -63,7 +63,7 @@ const Footer = () => {
 
             <hr className='mb-5' />
             <div class="w-full flex align-middle justify-center mt-15 pb-5 items-center  transition duration-300 ease-in-out"> 
-                <h1> &copy; 2023 Your Company. All rights reserved. </h1>
+                <h1> &copy; 2023 CYBRSFER. All rights reserved. </h1>
             </div>
 
         </footer>
